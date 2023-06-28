@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Write your CSS here */
+
+.app-container {
+  height: 100vh;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.heading-app-container {
+  height: 22vh;
+  background-color: #475569;
+  padding-left: 60px;
+  margin-top: -10px;
+}
+.layout-app-container {
+  padding-left: 60px;
+  background-color: #f1f5f9;
+  padding-right: 60px;
+  padding-top: 20px;
+}
